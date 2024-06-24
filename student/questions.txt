@@ -1,13 +1,13 @@
-1. Create a table “Student” with the specified structure.
-2. Create a table "Msc" from the Student table (same structure, no data).
-3. Display the structure of the "Msc" table.
-4. Create a table "MCA" from the Student table (same structure, no data). Rename the "course" column to "department" and the "name" column to "first name."
-5. Display the structure of the "MCA" table.
-6. Insert records into the "Student" table (replace placeholders with actual values).
-7. Display student details.
-8. Retrieve details of the student with roll number 5.
-9. Show roll number, name, and marks of all subjects from the Student table.
-10. Insert data into the "MCA" table from the Student table where the course is "MCA."
-11. Display the structures of both the "Student" and "MCA" tables.
-12. Update the math marks of the student with roll number 7 from 91 to 95 in the Student table.
-13. Delete the details of the student with roll number 2 from the Student table.
+- Create a table "Msc" from the Student table (same structure, no data).
+- Display the structure of the "Msc" table.
+- Create a table "MCA" from the Student table (same structure, no data). 
+- Rename the "course" column to "department" and the "name" column to "first name."
+- Display the structure of the "MCA" table.
+- Insert records into the "Student" table (replace placeholders with actual values).
+- Display student details.
+- Retrieve details of the student with roll number 5.
+- Show roll number, name, and marks of all subjects from the Student table.
+- Insert data into the "MCA" table from the Student table where the course is "MCA."
+- Display the structures of both the "Student" and "MCA" tables.
+- Update the math marks of the student with roll number 7 from 91 to 95 in the Student table.
+- Delete the details of the student with roll number 2 from the Student table.
