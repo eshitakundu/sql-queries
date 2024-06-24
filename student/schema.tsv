@@ -1,8 +1,8 @@
 Attribute	Constraint
-Name	Varchar2(30)	
-Age	Number(5)	
-Course		Varchar2(5)	
-Math	Number(6,2)	
-Physics	Number(6,2)	
-Computer	Number(6,2)	
-Birthday	Date	
+Name	Varchar2(30)
+Age	Number(5)
+Course	Varchar2(5)
+Math	Number(6,2)
+Physics	Number(6,2)
+Computer	Number(6,2)
+Birthday	Date
