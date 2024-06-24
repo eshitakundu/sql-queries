@@ -1,9 +1,9 @@
 Column Name, Data Type, Constraint
 Member_Id, Number(5), Primary Key
-Member_Name, varchar2(30), NOT NULL
-Member_address, Varchar2(50), _
-Acc_Open_Date, Date, _
+Member_Name, Varchar2(30), NOT NULL
+Member_address, Varchar2(50),
+Acc_Open_Date, Date,
 Membership_type, Varchar2(20), (Membership type- 'Lifetime', 'Annual', 'Half Yearly', 'Quarterly')
-Fees_paid, Number(4), _
+Fees_paid, Number(4),
 Max_Books_Allowed, Number(2), Max_Books_Allowed < 7
-Penalty_amount, Number(7,2), Penalty_amount maximum 1000
+Penalty_amount, Number(7,2), Penalty_amount <= 1000
