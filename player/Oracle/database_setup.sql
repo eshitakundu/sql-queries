@@ -111,3 +111,8 @@ INSERT INTO BATTING VALUES (seq_bat.NEXTVAL, 2576, 49001, 36);
 INSERT INTO BATTING VALUES (seq_bat.NEXTVAL, 2475, 49002, 72);
 
 --------------------------------------------------------------------------------------------------------
+
+/*
+Desc user_sequences;
+DROP SEQUENCE sequence_name;
+*/
