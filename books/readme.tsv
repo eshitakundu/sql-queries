@@ -1,4 +1,3 @@
-Column Name  Data Type  Constraint
-Member_Id  Number(5)  Primary Key
-Member_Name  Varchar2(30)  NOT NULL
-
+Column Name\tData Type\tConstraint
+Member_Id\tNumber(5)\tPrimary Key
+Member_Name\tVarchar2(30)\tNOT NULL
