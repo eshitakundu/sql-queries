@@ -1,0 +1,46 @@
+1. Retrieve the name of books and cost who has maximum value.
+2. Calculate the Minimum cost, Average cost, and Total cost value in the BOOKS table and rename the resulting attributes.
+3. Retrieve the Name and ID of Members who issued books between 26th January 2011 and 14th April 2011.
+4. Retrieve Book Name, Author Name, and Category whose Category is not 'OTHERS'.
+5. A. Retrieve the Book name and Author Name where:
+   - 5th letter of the Author name is 't'.
+   - Author name starts with 'S'.
+   - Author name starts with 'S' and contains at least one letter after that.
+   - Author name ends with the letter 'a'.
+   - 3rd and 5th letters of the Author name are 'a'.
+   - 2nd last letter of the author name is 'a'.
+   - Author name starts with 'D' and ends with 'e'.
+   - B. List all the Members whose name:
+     - Starts with 'S'.
+     - Starts with 's' or 'a' and contains the letter 't' in it.
+   - C. List all the books that contain the word 'SQL' in the name of the book.
+6. How many Books are available whose Cost is greater than 350.
+7. How many different Authors' names are available in the BOOKS table.
+8. Calculate the following numeric functions:
+   - Absolute value of -167.
+   - 8^6.
+   - Round up to 2 decimal points (134.56789).
+   - Square root of 144.
+   - Floor and Ceil value of 13.15.
+9. Extract Year, Month, Day from System Date.
+10. What is the greatest value between 4, 5, and 17.
+11. What is the Least value between '4', '5', and '17' and express why resulting value of last two queries are same.
+12. Extract 4 letters from 3rd position of this word 'INFOSYS'.
+13. What is the ASCII value of 'a' and 'S'?
+14. What is the length of this word 'INFOSYS' and change 'S' with 'T'?
+15. Retrieve the Names and Address of the Members who belong to Kolkata.
+16. Retrieve the Name of Books, where Cost prices are between 300 and 500.
+17. List the Name of the Members whose Membership type is "HALF YEARLY".
+18. List the Name of the Members who open their accounts in the year 2011.
+19. Retrieve the Penalty Amount of the Members who have taken the book "LET US C".
+20. Retrieve the no of Max books allowed to a Member who has issued books on January.
+21. Give the Names of the Members who have not issued any books.
+22. Give the Name and Category of the books whose cost is not recorded.
+23. List all the books that are written by Author Loni and have Price less than 600.
+24. List the Issue details for the Books that are not returned yet.
+25. List all the Books that belong to any one of the following categories Science, Database.
+26. List all the Members in the descending order of Penalty due on them.
+27. List all the Books in ascending order of category and descending order of price.
+28. List the Entire Book name in INIT CAP and Author Name in UPPER case in the descending order of the Book Name.
+29. List the data in the book table with category data displayed as D' for Database, 'S' for Science, 'R' for RDBMS, and 'O' for all the others.
+30. List all the Members that became the Member in the year 2011.
