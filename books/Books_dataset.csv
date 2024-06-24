@@ -1,9 +1,9 @@
 Book_No,Book_Name,Author_Name,Cost,Category
-101,'Let us C','Denis Ritchie',450.00,'Others'
-102,'Oracle-Complete Ref','Loni',550.00,'Database'
-103,'Visual Basic 10','BPB',700.00,'Others'
-104,'Mastering SQL','Loni',450.00,'Database'
-105,'PL SQL-Ref','Scot Urman',470.00,'Database'
-106,'UNIX','Sumitava Das',300.00,'System'
-107,'Optics','Ghatak',600.00,'Science'
-108,'Data Structure','G.S Baluja',350.00,'Others'
+101,Let us C,Denis Ritchie,450,Others
+102,Oracle-Complete Ref,Loni,550,Database
+103,Visual Basic 10,BPB,700,Others
+104,Mastering SQL,Loni,450,Database
+105,PL SQL-Ref,Scot Urman,470,Database
+106,UNIX,Sumitava Das,300,System
+107,Optics,Ghatak,600,Science
+108,Data Structure,G.S Baluja,350,Others
