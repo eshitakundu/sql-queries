@@ -1,3 +1,4 @@
 Column Name, Data Type, Constraint
 Member_Id, Number(5), Primary Key
 Member_Name, Varchar2(30), NOT NULL
+Member_address, Varchar2(50)
