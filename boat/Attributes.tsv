@@ -10,4 +10,5 @@ BNAME	VARCHAR2(10)	all upper case
 COLOUR	VARCHAR2(6)	red, green, blue
 SID	VARCHAR2(4)	REFERENCES Sailor
 BID	NUMBER(3)	REFERENCES Boat
-DAY	DATE	CHECK 1-JAN-2000 composite primary key (SID, BID)
+DAY	DATE	CHECK 1-JAN-2000 
+(SID, BID)		composite primary key 
