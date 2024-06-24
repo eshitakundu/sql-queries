@@ -2,4 +2,4 @@ Column Name	Data Type	Constraint
 Member_ID	Number(5)	NOT NULL
 Member_Name	Varchar2(30)	
 Member_address	Varchar2(50)	
-
+Acc_Date	Date	
