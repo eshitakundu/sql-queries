@@ -1,0 +1,9 @@
+Member_Id,Member_Name,Member_address,Acc_Open_Date,Membership_type,Fees_paid,Max_Books_Allowed,Penalty_amount
+1,Sayantan Sinha,Pune,10-DEC-2010,Lifetime,2000,6,50
+2,Abhirup Sarkar,Kolkata,19-JAN-2011,Annual,1400,3,0
+3,Ritesh Bhuniya,Gujrat,20-FEB-2011,Quarterly,350,2,100
+4,Paresh Sen,Tripura,21-MAR-2011,Half Yearly,700,1,200
+5,Sohini Haldar,Birbhum,11-APR-2011,Lifetime,2000,6,10
+6,Suparna Biswas,Kolkata,12-APR-2011,Half Yearly,700,1,0
+7,Suranjana Basu,Purulia,30-JUN-2011,Annual,1400,3,50
+8,Arpita Roy,Kolkata,31-JUL-2011,Half Yearly,700,1,0
