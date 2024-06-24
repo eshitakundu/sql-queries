@@ -1,0 +1,19 @@
+--For every project located in 'Stafford', list the project number, the controlling department number, and the department manager's last name, address, and birth date.
+--Retrieve the name of each employee who works on all the projects controlled by department number 5.
+--Make a list of all project numbers for projects that involve an employee whose last name is 'Smith', either as a worker or as a manager of the department that controls the project.
+--Retrieve the names of employees who have no dependents.
+--List the names of managers who have at least one dependent.
+--For each employee, retrieve the employee's first and last name and the first and last name of his or her immediate supervisor. (SELF JOIN)
+--Show the resulting salaries if every employee working on the 'ProductX' project is given a 10 per cent raise.
+--Retrieve a list of employees and the projects they are working on, ordered by department and, within each department, ordered alphabetically by last name, and first name.
+--Retrieve the names of all employees who do not have supervisors.
+--Retrieve the social security numbers of all employees who work on project numbers 1,2.
+--Returns the names of employees whose salary is greater than the salary of all the employees in department 5.
+--Find the sum of the salaries of all employees, the maximum salary, the minimum salary, and the average salary.
+--Find the sum of the salaries of all employees of the 'Research' department, as well as the maximum salary, the minimum salary, and the average salary in this department.
+--Retrieve the names of all employees who have two or more dependents.
+--Count the total number of employees whose salaries exceed $40,000 in each department, but only for departments where more than five employees work.
+--For each project, retrieve the project number, the project name, and the number of employees who work on that project.
+--For each project on which more than two employees work, retrieve the project number, the project name, and the number of employees who work on the project.
+--For each project, retrieve the project number, the project name, and the number of employees from department 5 who work on the project.
+--For each department that has more than five employees, retrieve the department number and the number of its employees who are making more than $40,000
