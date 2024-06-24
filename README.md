@@ -4,8 +4,8 @@ This repository contains SQL exercises and solutions for various database system
 Directory Structure:
 
 - **Student**
-  - dataset: Contains the student.csv file.
-  - exercise: contains the exercise questions.
+  - Dataset: Contains the student.csv file.
+  - Exercise: Contains the exercise questions.
   - Oracle: Contains scripts and answers for Oracle.
     - create_table.sql: SQL script to create the Student table in Oracle.
     - queries.sql: SQL queries to perform the exercises.
