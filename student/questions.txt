@@ -3,7 +3,6 @@
 - Create a table "MCA" from the Student table (same structure, no data). 
 - Rename the "course" column to "department" and the "name" column to "first name."
 - Display the structure of the "MCA" table.
-- Insert records into the "Student" table (replace placeholders with actual values).
 - Display student details.
 - Retrieve details of the student with roll number 5.
 - Show roll number, name, and marks of all subjects from the Student table.
