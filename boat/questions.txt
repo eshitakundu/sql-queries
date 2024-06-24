@@ -1,0 +1,30 @@
+1. Find the names in upper case and the ages of all sailors.
+2. Select all records from sailors in ascending order by name.
+3. Select all distinct sailors' names.
+4. Show all distinct sailors' names and ratings who have ratings between 5 and 10.
+5. Select all records from sailors in ascending order by rating and descending order by age.
+6. Find records for sailor name Horatio and age=35.4.
+7. Select names of sailors who have reserved boat 104.
+8. Find sid of sailors who have reserved red boat.
+9. Select names for rating present.
+10. Select names for rating absent.
+11. Find the color of boats reserved by Lubber.
+12. Find a sailor name that has reserved at least one boat.
+13. Find the name of sailors whose name begins and ends with B and has at least 3 characters.
+14. Find names of sailors whose name begins and ends with ‘B’ and has exactly 3 chars.
+15. Find names of sailors who have reserved a red boat or a green boat.
+16. Find names of sailors who have reserved a red boat but not a green boat.
+17. Find names of sailors who have reserved boat 103.
+18. Find names of sailors who have reserved a red boat.
+19. Find names of sailors who have not reserved red boats.
+20. Find all records of the sailors for which the rating is greater than the rating of some sailor, where the sailor's name is ‘Horatio’.
+21. Find the average age of sailors with a rating of 10.
+22. Find the names of the sailors who are older than the oldest sailor of rating=10.
+23. Find the age of the youngest sailor for each rating level.
+24. Find the name of each sailor who is eligible to vote for each rating level.
+25. Find the average age of a sailor for each rating level with at least two such sailors.
+26. For each red boat, count the number of reservations for this boat.
+27. Find the records of the sailor who is getting the 2nd highest rating.
+28. Find the names of sailors who got the 3rd minimum rating.
+29. Find sailors who have reserved all boats.
+30. Find sailors who have reserved more than 2 boats.
