@@ -4,7 +4,7 @@ This repository contains SQL exercises and solutions for various database system
 Directory Structure:
 
   - Dataset(s): Contains the csv file(s).
-  - Attributes: Contains the schema and constraints.
+  - Attributes: Contains the schema.
   - Questions: Contains the exercise questions.
     
   - Oracle: Contains scripts and answers for Oracle.
