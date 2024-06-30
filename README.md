@@ -1,24 +1,16 @@
 SQL Exercises and Solutions for Multiple Databases:
-This repository contains SQL exercises and solutions for various database systems including Oracle, MySQL, PostgreSQL, and Microsoft SQL Server.
+This repository contains SQL exercises and solutions for various database systems including Oracle and MySQL.
 
 Directory Structure:
 
-- **Student**
-  - Dataset: Contains the student.csv file.
-  - Exercise: Contains the exercise questions.
+  - Dataset(s): Contains the csv file(s).
+  - Attributes: Contains the schema and constraints.
+  - Questions: Contains the exercise questions.
+    
   - Oracle: Contains scripts and answers for Oracle.
-    - create_table.sql: SQL script to create the Student table in Oracle.
+    - database_setup.sql: SQL script to create the Student table in Oracle.
     - queries.sql: SQL queries to perform the exercises.
-    - answers.md: Solutions and explanations for the queries.
-  - MySQL: Contains scripts and answers for MySQL.
-    - create_table.sql: SQL script to create the Student table in MySQL.
+
+  - MySQL: Contains scripts and answers for Oracle.
+    - database_setup.sql: SQL script to create the Student table in Oracle.
     - queries.sql: SQL queries to perform the exercises.
-    - answers.md: Solutions and explanations for the queries.
-  - PostgreSQL: Contains scripts and answers for PostgreSQL.
-    - create_table.sql: SQL script to create the Student table in PostgreSQL.
-    - queries.sql: SQL queries to perform the exercises.
-    - answers.md: Solutions and explanations for the queries.
-  - MSSQL: Contains scripts and answers for Microsoft SQL Server.
-    - create_table.sql: SQL script to create the Student table in Microsoft SQL Server.
-    - queries.sql: SQL queries to perform the exercises.
-    - answers.md: Solutions and explanations for the queries.
