@@ -1,4 +1,4 @@
-Attribute	Constraint
+Attribute	Data_Type
 Name	Varchar2(30)
 Age	Number(5)
 Course	Varchar2(5)
