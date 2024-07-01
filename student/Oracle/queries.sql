@@ -16,9 +16,7 @@ ALTER TABLE MCA RENAME COLUMN Name TO First_Name;
 
 
 --Display structure of MCA
-CREATE TABLE MCA AS (SELECT * FROM Student WHERE 1=2);
-ALTER TABLE MCA RENAME COLUMN Course TO Department;
-ALTER TABLE MCA RENAME COLUMN Name TO First_Name;
+DESC MCA;
 
 
 --Display student details
