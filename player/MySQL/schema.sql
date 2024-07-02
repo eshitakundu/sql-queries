@@ -1,0 +1,12 @@
+-- Find the ground of the matches batted by a player whose Fname is starting from 'S'.
+-- Find Id of player that have bowled in the match 2576 but not have batted.
+-- Find the batting average of each Indian player along with the Player_Id.
+-- Find the name of that player who has bowled the highest number of overs and also find the ground where he has bowled.
+-- Find the total run scored by a player who played the First Test in 1991.
+-- Find the name and the number of wickets taken by the youngest player in the database.
+-- Find the names of the players who batted in only one match.
+-- Find the name of the player who has taken the highest wickets in a particular match and also find the ground where the player has taken the wickets.
+-- Find the ground where Sachin Tendulkar has scored his highest run.
+-- Find out the name of a Srilankan bowler who has delivered at least 2 maiden overs.
+-- Find the Number of wickets of that player whose Birth place is in Mattumagala.
+-- Find the names of the players who played in more than one matches.
