@@ -1,2 +1,3 @@
-*.sql linguist-language=PLSQL
-*.mysql linguist-language=MySQL
+Mysql/**/*.sql linguist-language=MySQL
+
+Oracle/**/*.sql linguist-language=PLSQL
