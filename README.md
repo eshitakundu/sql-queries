@@ -10,6 +10,6 @@ This repository contains SQL exercises and solutions for various database system
 - **Oracle**: Contains scripts and answers for Oracle.
   - `database_setup.sql`: SQL script to create the tables.
   - `queries.sql`: SQL queries to perform the exercises.
-- **MySQL**: Contains scripts and answers for MySQL (Work in Progress - currently only for Student).
+- **MySQL**: Contains scripts and answers for MySQL (Work in Progress - currently for student & player).
   - `database_setup.sql`: SQL script to create the tables.
   - `queries.sql`: SQL queries to perform the exercises.
