@@ -1,7 +1,3 @@
-# Queries and Results
-
-```sql
-
 -- Retrieve the name of books and cost who has maximum value.
 
 SELECT BOOK_NAME, COST
